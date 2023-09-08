@@ -1,0 +1,27 @@
+#ASWIN{
+    background-color: beige;
+    
+}
+    
+
+#aboutme {
+    background-color: black;
+    color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.list {
+    font-family: 'Times New Roman', Times, serif;
+    border-style: dotted;
+    border-width: 3px;
+    border-color: blueviolet;
+}
+
+.list2 {
+    border-bottom: 5px solid red;
+}
+
+.list3 {
+    border: 2px solid red;
+    border-radius: 5px;
+}
